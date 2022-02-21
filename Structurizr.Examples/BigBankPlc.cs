@@ -2,6 +2,7 @@
 using System.Linq;
 using Structurizr.Core.Util;
 using Structurizr.Documentation;
+using Structurizr.Api;
 
 namespace Structurizr.Examples
 {
